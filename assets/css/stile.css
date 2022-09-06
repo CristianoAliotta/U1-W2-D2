@@ -120,29 +120,6 @@ iframe {
   margin-bottom: 2em;
   border-radius: 20px;
 }
-.upbutton {
-  position: fixed;
-  bottom: 10px;
-  right: -7px;
-}
-.facebook {
-  position: fixed;
-  bottom: 20vh;
-  right: -7px;
-}
-.upbutton a,
-.facebook a {
-  color: #c77ea2;
-  font-size: 4rem;
-  display: block;
-}
-.facebook a {
-  color: rgb(45, 101, 185);
-}
-.upbutton .far,
-.facebook .far {
-  background: white;
-}
 
 /* TABELLE */
 table {
@@ -248,4 +225,27 @@ footer {
 }
 footer a {
   color: fuchsia;
+}
+.upbutton {
+  position: fixed;
+  bottom: 10px;
+  right: -7px;
+}
+.facebook {
+  position: fixed;
+  bottom: 20vh;
+  right: -7px;
+}
+.upbutton a,
+.facebook a {
+  color: #c77ea2;
+  font-size: 4rem;
+  display: block;
+}
+.facebook a {
+  color: rgb(45, 101, 185);
+}
+.upbutton .far,
+.facebook .far {
+  background: white;
 }
